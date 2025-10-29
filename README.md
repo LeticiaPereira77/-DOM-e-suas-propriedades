@@ -1,2 +1,2 @@
-# -DOM-e-suas-propriedades
+DOM e suas propriedades
 atividade do professor Vinicius Eduardo
