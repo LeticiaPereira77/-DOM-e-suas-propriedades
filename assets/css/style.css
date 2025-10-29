@@ -1,0 +1,98 @@
+#quadrado {
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+}
+
+#retangulo{
+    width: 200px;
+    height: 100px;
+    background-color: blue;
+    margin-bottom: 20px;
+}
+
+#circulo{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+    background-color: gray;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#paragrafo{
+    background-color: lightgray;
+    padding: 10px;
+}
+
+#banner{
+    width: 300px;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+}
+
+
+#triangulo {
+  width: 0;
+  height: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+  border-bottom: 100px solid black;
+  margin: 20px 0;
+}
+
+
+#circulo2, #quadrado2 {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+#circulo2 {
+  background-color: red;
+  border-radius: 50%;
+}
+
+#quadrado2 {
+  background-color: blue;
+}
+
+#titulo {
+  color: black;
+  background-color: transparent;
+}
+
+.caixa {
+  width: 50px;
+  height: 50px;
+  background-color: gray;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+#div11 {
+  background-color: pink;
+  padding: 10px;
+}
+#p11 {
+  color: black;
+}
+
+#oval {
+  width: 200px;
+  height: 100px;
+  background-color: gray;
+  border-radius: 50%;
+}
